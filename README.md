@@ -1,0 +1,1 @@
+A classic Snake Game built using Java, focusing on real-time gameplay, smooth controls, and efficient game logic. This project demonstrates core programming concepts like object-oriented design, event handling, and game loop implementation.
